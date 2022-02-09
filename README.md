@@ -1,4 +1,4 @@
-# Training material for software test
+﻿# Training material for software test
 This repository is for internal training purpose.
 
 
@@ -9,7 +9,8 @@ This repository is for internal training purpose.
 - Keep simple and lean v.s over-engineering and fragile
 - Test/Implement/Refactor
 - TDD = TFD + refactoring
-
+- Use CLI: `dotnet watch test`
+- ❌Singleton ❌static
 
 
 ## Additional reference
